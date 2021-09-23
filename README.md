@@ -6,9 +6,10 @@ try https://django.janbkrejci.repl.co/
 
 # notes
 
-<code>
-pip install django<br>
-django-admin startproject mysite<br>
-cd mysite<br>
+
+```
+pip install django
+django-admin startproject mysite
+cd mysite
 python manage.py startapp myapp
-</code>
+```
