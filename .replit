@@ -1,2 +1,2 @@
 language = "python3"
-run = "cd thesystem && python manage.py runserver 0.0.0.0:8080"
+run = "cd thesystem && python manage.py runserver 0:8000"
