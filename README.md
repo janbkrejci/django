@@ -11,5 +11,8 @@ try https://django.janbkrejci.repl.co/
 pip install django
 django-admin startproject mysite
 cd mysite
+python manage.py migrate
 python manage.py startapp myapp
 ```
+
+goto https://docs.djangoproject.com/en/3.2/intro/tutorial02/
